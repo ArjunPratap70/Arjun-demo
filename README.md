@@ -1,4 +1,5 @@
 # Arjun-demo
 this is my first git repository
 <br>
-Author- Arjun Pratap
+Author- Arjun Pratap singh
+
